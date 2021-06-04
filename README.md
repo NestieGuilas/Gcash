@@ -1,2 +1,2 @@
-# Gcash
+# GCash
 http://gcsh.app/
